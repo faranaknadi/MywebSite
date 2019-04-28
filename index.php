@@ -9,7 +9,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 <script src="<?php bloginfo('template_url') ?>/script.js" language="javascript" type="text/javascript"></script>
-<title>Faranak Nadi-Front End Developer------tessst----</title>
+<title>Faranak Nadi-Front End Developer</title>
 </head>
 <body data-spy="scroll" data-target="#mynavbar">
 <nav class="navbar navbar-default navbar-fixed-top  " data-spy="affix" data-offset-top="0"  >
